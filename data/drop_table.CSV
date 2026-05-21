@@ -1,0 +1,6 @@
+number,item_code,item_name,percentage,raw_weight,weight_multiplier
+0,10001,Normal_Sword,70.2099%,702099,1000000
+1,11957,Iron_Sword,25.0000%,250000,
+2,66845,Legendary_Sword,4.7900%,47900,
+3,13055,Grandfather_Sword,0.0001%,1,
+,,,,,
